@@ -2,7 +2,7 @@
 
 # 🌲 Trrimber - AI/ML Powered Flutter App 📱  
 
-Welcome to the **Log Stack Analyzer** repository! This Flutter-based mobile application leverages AI/ML to detect logs in a stack, allowing users to measure and analyze logs efficiently.  
+Welcome to the **Trrimber** repository! This Flutter-based mobile application leverages AI/ML to detect logs in a stack, allowing users to measure and analyze logs efficiently.  
 
 # 📲 Download Now  
 
