@@ -4,6 +4,11 @@
 
 Welcome to the **Log Stack Analyzer** repository! This Flutter-based mobile application leverages AI/ML to detect logs in a stack, allowing users to measure and analyze logs efficiently.  
 
+# 📲 Download Now  
+
+- 📥 **Google Play Store:** [Trrimber](https://play.google.com/store/apps/details?id=com.trrimber.app&hl=en)  
+- 🍏 **Apple App Store:** [Trrimber](https://apps.apple.com/gd/app/trrimber/id6740873607)  
+
 ---
 
 ## 📸 Screenshots  
